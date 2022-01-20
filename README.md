@@ -1,7 +1,5 @@
 ![2 0](https://user-images.githubusercontent.com/90621208/150324092-049b2b7f-211b-40c9-916f-0daa67fdb31e.png)
 
-Access here: https://spotify-2-0-rose.vercel.app/
-
 ## Project Description
 
 Rebuilt Spotify as a clone for educational experiences - interacting with the Spotify API. Using: Next.js 12.0, Spotify API, Tailwind, NextAuth and Recoil.
