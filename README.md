@@ -1,18 +1,19 @@
 ![2 0](https://user-images.githubusercontent.com/90621208/150324092-049b2b7f-211b-40c9-916f-0daa67fdb31e.png)
 
+Access here: https://spotify-2-0-rose.vercel.app/
 
-# Next.js + Tailwind CSS Example
+## Project Description
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Rebuilt Spotify as a clone for educational experiences - interacting with the Spotify API. Using: Next.js 12.0, Spotify API, Tailwind, NextAuth and Recoil.
 
-## How to use
+## How to Install & Run or View Project
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+*Deployed app*
+1. Open up and log in to the Spotify client on your computer and play a song (uses it as a base). 
+2. Visit: https://spotify-2-0-rose.vercel.app/
+3. Log in with your Spotify credentials via Spotify
+4. Use the playlists to change music and adjust volume. 
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+*Locally*
+Clone the repo and run npm i to install dependencies.
+Please run npm run dev to run locally. Env files are hidden. 
