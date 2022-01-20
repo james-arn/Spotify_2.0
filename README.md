@@ -10,6 +10,7 @@ Rebuilt Spotify as a clone for educational experiences - interacting with the Sp
 - JWT/access/refresh tokens.
 - Recoil - global state management.
 - Tailwind CSS - responsive app at speed and consistency for styling.
+- Deployed on Vercel.
 
 ## How to Install & Run or View Project
 
