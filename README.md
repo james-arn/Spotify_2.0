@@ -15,7 +15,7 @@ Rebuilt Spotify as a clone for educational experiences - interacting with the Sp
 ## How to Install & Run or View Project
 
 *Deployed app*
-1. Open up and log in to the Spotify client on your computer and play a song (uses it as a base). 
+1. <b>IMPORTANT</b>: Open up and log in to the Spotify client on your computer and play a song (uses it as a base). 
 2. Visit: https://spotify-2-0-rose.vercel.app/
 3. Log in with your Spotify credentials via Spotify
 4. Use the playlists to change music and adjust volume. 
