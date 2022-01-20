@@ -1,5 +1,4 @@
 import { getProviders, signIn } from "next-auth/react";
-import spotifyLogoImg from "../public/favicon.ico";
 
 function Login({ providers }) {
   return (
