@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Rebuilt Spotify as a clone for educational experiences - interacting with the Spotify API. Using: Next.js 12.0, Spotify API, Tailwind, NextAuth and Recoil.
+Rebuilt Spotify as a clone for educational experiences - interacting with the Spotify API. Using: Next.js 12.0, Spotify API, Tailwind, NextAuth, Recoil, Cypress.
 
 - Next.js 12 - featuring middleware to prevent user from being where they should and shouldn't be. 
 - Debouncing - preventing spamming that leads to rate limiting.
@@ -26,4 +26,5 @@ Rebuilt Spotify as a clone for educational experiences - interacting with the Sp
 
 ![image](https://user-images.githubusercontent.com/90621208/150356523-76d169bb-682d-4500-8b33-7e6a35c43e07.png)
 
-
+## Testing
+Please npm run cypress:open to run tests
