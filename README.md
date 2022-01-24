@@ -22,6 +22,6 @@ Rebuilt Spotify as a clone for educational experiences - interacting with the Sp
 
 *Locally*
 - Clone the repo and run *npm i* to install dependencies.
-- Please run npm run dev to run locally. Env files are hidden. 
+- Please run npm run dev to run locally. Env files are hidden.
 
 ![image](https://user-images.githubusercontent.com/90621208/150356523-76d169bb-682d-4500-8b33-7e6a35c43e07.png)
